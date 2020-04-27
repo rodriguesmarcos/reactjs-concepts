@@ -37,3 +37,15 @@ div li button {
   margin: 0 15px;
   background: #ca4949;
 }
+
+.fake-form {
+  display: flex;
+  flex-direction: column;
+  width: 400px;
+}
+
+.fake-form input {
+  border: 1px solid #7159c1;
+  padding: 5px;
+  margin-bottom: 8px;
+}
